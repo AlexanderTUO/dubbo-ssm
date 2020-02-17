@@ -1,0 +1,3 @@
+com\tyk\common\bean\Book.class
+com\tyk\common\dao\BookDao.class
+com\tyk\common\service\BookService.class
