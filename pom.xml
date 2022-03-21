@@ -190,7 +190,7 @@
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>dubbo</artifactId>
-      <version>2.6.4</version>
+      <version>2.6.9</version>
     </dependency>
     <!-- Zookeeper 用于分布式服务管理 -->
     <dependency>
